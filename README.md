@@ -1,5 +1,5 @@
-# repositorio do desafio de proj
-desafio de projeto sobre git/github
+# desafio de proj
+repositorio criado para o desafio de projeto
 
 ## links uteis
-[sintaxe basica markdown}(www.serradourada.com.br)
+[sintaxe basica markdown](www.serradourada.com.br)
